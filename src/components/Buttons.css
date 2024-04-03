@@ -1,0 +1,13 @@
+.btn-plus {
+  color: white;
+  background-color: #4fac5c;
+  border-radius: 14px;
+  border: none;
+}
+
+.btn-minus {
+  color: white;
+  background-color: #af2419;
+  border-radius: 14px;
+  border: none;
+}
